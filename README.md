@@ -20,7 +20,7 @@ Here are some of the projects I've worked on:
    - Collaborated in a team of 4 and worked on a Full Stack PERN website (PostgreSQL, Express, React, Node)
    - Features: User login, restaurant advertisement through allowing posting events and recommend events to users, find nearby restaurants using Google Map API and PostgreSQL.
    - Description: A full stack website focusing on advertisements on restaurants, aiming to inspire more people to explore nearby restaurants.
-   - Github Repo: https://github.com/madisondegrezia/Capstone
+   - Github Repo: https://github.com/tonglin2003/Social_Bites
   
 2. (July 2023)[Blogging Platform](https://github.com/tonglin2003/bloggingPlatform)
    - Full Stack PERN website (PostgreSQL, Express, React, Node)
